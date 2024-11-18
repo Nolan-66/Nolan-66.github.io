@@ -4,9 +4,9 @@
     <pre class="mermaid">
 
 		classDiagram
-		Portfolio "1" --> "*" Page : contient
+		Portfolio "*" --> "*" Page : contient
 		Portfolio "1" --> "*" Projet : contient
-		Portfolio "1" --> "1" CV : contient
+		Portfolio "*" --> "1" CV : contient
 		class Portfolio{
 			+string titre 
 			+string description 
