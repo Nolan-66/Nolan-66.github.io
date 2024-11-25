@@ -1,137 +1,96 @@
-# jekyll-theme-read-the-docs
+# CV - Nolan Conte
 
-[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/JV-conseil/jekyll-theme-read-the-docs/badge)](https://www.jsdelivr.com/package/gh/JV-conseil/jekyll-theme-read-the-docs)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.jekyll-theme-read-the-docs)
-[![CodeQL Advanced](https://github.com/JV-conseil/jekyll-theme-read-the-docs/actions/workflows/codeql.yml/badge.svg?branch=dev)](https://github.com/JV-conseil/jekyll-theme-read-the-docs/actions/workflows/codeql.yml)
-[![Umami - GDPR compliant alternative to Google Analytics](https://img.shields.io/badge/analytics-umami-green)](https://analytics.umami.is/share/M19mr5L7jVhHuFnb/jv-conseil.github.io "Umami - GDPR compliant alternative to Google Analytics")
-[![License EUPL 1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](LICENSE)
-[![Become a sponsor to JV-conseil](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/JV-conseil "Become a sponsor to JV-conseil")
-[![Follow JV conseil on StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/2477854)](https://stackoverflow.com/users/2477854/jv-conseil "Follow JV conseil on StackOverflow")
-[![Follow JVconseil on Twitter](https://img.shields.io/twitter/follow/JVconseil.svg?style=social&logo=twitter)](https://twitter.com/JVconseil "Follow JVconseil on Twitter")
-[![Follow JVconseil on Mastodon](https://img.shields.io/mastodon/follow/110950122046692405)](https://mastodon.social/@JVconseil "Follow JVconseil@mastodon.social on Mastodon")
-[![Follow JV conseil on GitHub](https://img.shields.io/github/followers/JV-conseil?label=JV-conseil&style=social)](https://github.com/JV-conseil "Follow JV-conseil on GitHub")
+## Recherche d'une Alternance en Sciences des Données (Septembre 2024)
 
-<!--
-![CI](https://github.com/JV-conseil/jekyll-theme-read-the-docs/workflows/CI/badge.svg?branch=develop)
-[![License BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
--->
+Je recherche une alternance en informatique pour septembre 2024 afin de développer des solutions innovantes et améliorer les infrastructures IT, en mettant à profit mes compétences en programmation et en gestion de bases de données.
 
-> Read the Docs 📖 like Jekyll Theme for GitHub Pages
+---
 
-## What it does?
+### Informations personnelles
+- **Adresse :** 13 cité du Canigou, 66450 Pollestres
+- **Téléphone :** 07 67 14 66 70
+- **Email :** [nolan.conte2@gmail.com](mailto:nolan.conte2@gmail.com)
+- **Date de naissance :** 15/11/2004
+- **Permis :** Permis B
+- **Mobilité :** Nationale
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/jekyll-theme-read-the-docs/sphinx_rtd_theme) and refactored with:
+---
 
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+### Compétences
 
-## Quick start
+#### Statistiques
+- Mener une étude statistique
+- Modéliser des données
+- Communiquer des résultats à travers un rapport
 
-```yml
-remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
-```
+#### Programmation
+- Concevoir des programmes sous Python
+- Créer des requêtes SQL
+- Coder un site en HTML, CSS et JS
 
-You can [generate][rundocs/starter] with the same files and folders from [rundocs/starter][rundocs/starter]
+#### Base de Données
+- Concevoir une base de données
+- Évaluer, communiquer les données, établir un tableau de bord
+- Rechercher des informations grâce à des requêtes SQL
 
-## Usage
+#### Langages
+- **R**, **SQL**, **Python**, **CSS**, **HTML**
 
-Documentation that can guide how to create with Github pages, please refer to [rundocs/jekyll-rtd-theme](https://github.com/rundocs/jekyll-rtd-theme) for details
+#### Logiciels
+- Excel, Access, Spyder, RStudio, Sphinx, ArcMap, InSight, Looping, Power BI
 
-## Features
+---
 
-- Shortcodes (Toasts card, mermaid)
-- Pages Plugins (emoji, gist, avatar, mentions)
-- Auto generate sidebar
-- [Attribute List Definitions](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions) (Primer/css utilities, Font Awesome 4)
-- Service worker (caches)
-- SEO (404, robots.txt, sitemap.xml)
-- Canonical Link (Open Graph, Twitter Card, Schema data)
+### Langues
+- **Anglais :** Niveau B1
+- **Espagnol :** Niveau A2
+- **Catalan :** Niveau A2
 
-## Options
+---
 
-| name          | default value        | description       |
-| ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
-| `description` | repo description     |                   |
-| `url`         | user domain or cname |                   |
-| `baseurl`     | repo name            |                   |
-| `lang`        | `en`                 |                   |
-| `direction`   | `auto`               | `ltr` or `rtl`    |
-| `highlighter` | `rouge`              | Cannot be changed |
+### Centres d'intérêt
+- **Sports :**
+  - 3 ans de Judo, 8 ans d’Athlétisme, 1 an de Krav Maga, 1 an de Tennis, loisir : Football
+- **Voyages :**
+  - Tahiti, Espagne
 
-```yml
-# folders sort
-readme_index:
-  with_frontmatter: true
+---
 
-meta:
-  key1: value1
-  key2: value2
-  .
-  .
-  .
+### Diplômes et Formations
+- **Deuxième année de BUT Sciences des Données** (anciennement STID)  
+  Depuis septembre 2022 – IUT de Perpignan, antenne de Carcassonne  
+- **Baccalauréat général - Mention Assez Bien**  
+  2021 – Lycée François Arago, Perpignan  
+  *Spécialités : Mathématiques, Physique, Numérique et Sciences de l’Informatique*
+- **Brevet des Collèges - Mention Très Bien**  
+  2018 – Collège François Mitterrand, Toulouges  
 
-google:
-  gtag:
-  adsense:
-  site_verification:
+---
 
-# GDPR compliant alternative to Google Analytics
-mouseflow:
-  project_api_key:
+### Expériences
 
-posthog:
-  project_api_key:
+#### Création de tableaux de bords dynamiques - Stage  
+**Avril 2024 à Juin 2024 – Sicoval Labège**  
+- Analyse et nettoyage des données  
+- Création d'un tableau de bord Power BI à partir de données brutes  
+- Rédaction de documents techniques  
+- Création d'un dashboard sur la plateforme ArcGIS d'ESRI  
+- Élaboration de tutoriels pour faciliter la reproduction des démarches effectuées  
 
-telemetry:
-  app_id:
-  user_identifier:
+#### Intégration de données hétéroclites et gestion d'une base de données - Projet universitaire  
+**Octobre 2023 à Décembre 2023 – IUT de Perpignan, antenne de Carcassonne**  
+- Récupération de données en ligne grâce à un programme Python  
+- Proposition d'un MCD  
+- Nettoyage des données et création de la base de données  
+- Création du document technique  
 
-umami:
-  website_id:
+#### Réalisation d'un site WEB avec base de données MySQL - Projet universitaire  
+**Octobre 2023 à Janvier 2024 – IUT de Perpignan, antenne de Carcassonne**  
+- Création d'un design pour le site sur papier  
+- Création de l'hébergeur avec la base de données  
+- Codage du site en respectant les chartes  
 
-mathjax: # this will prased to json, default: {}
+---
 
-# NOTE: mermaid custom link are no longer supported
-# instead mermaid is updated to the lastest version
-# available through cdn.jsdelivr.net
-# mermaid:
-#   custom:     # mermaid link
-#   initialize: # this will prased to json, default: {}
-
-scss:   # also _includes/extra/styles.scss
-script: # also _includes/extra/script.js
-
-translate:
-  # shortcodes
-  danger:
-  note:
-  tip:
-  warning:
-  # 404
-  not_found:
-  # copyright
-  revision:
-  # search
-  searching:
-  search:
-  search_docs:
-  search_results:
-  search_results_found: # the "#" in this translate will replaced with results size!
-  search_results_not_found:
-
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
-```
-
-## Sponsorship
-
-If this project helps you, you can offer me a cup of coffee ☕️ :-)
-
-[![Become a sponsor to JV-conseil](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/JV-conseil)
-
-<!-- links -->
-
-[rundocs/starter]: https://github.com/rundocs/starter
+### Atouts
+- **Compétences personnelles :** Rigoureux, faculté d'adaptation, esprit d'équipe
